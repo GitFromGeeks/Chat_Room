@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033852635755",
+    "project_id": "chat-aac75",
+    "storage_bucket": "chat-aac75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033852635755:android:4d414e5c24d470b6f3ff2e",
+        "android_client_info": {
+          "package_name": "in.chat_room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033852635755-09dehbhqjeuvo2gi9tqreg6qcbf251du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAppDZnXpPu2r27OVSRj0fC5QpUwRrpnFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033852635755-09dehbhqjeuvo2gi9tqreg6qcbf251du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
